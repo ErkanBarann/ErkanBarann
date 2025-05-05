@@ -1,13 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Optimizing infrastructure and workflows using DevOps tools, focusing on automating deployments, streamlining CI/CD pipelines, and enhancing cloud-based solutions for improved system performance and scalability.<br><br>👯 I’m looking to collaborate on:<br>Innovative DevOps projects that involve cutting-edge automation, containerization, Kubernetes orchestration, and cloud-native applications to solve real-world problems.<br><br>🤝 I’m looking for help with:<br>Advanced techniques in observability, monitoring distributed systems, and integrating AI/ML to predict system performance and potential downtimes.<br><br>🌱 I’m currently learning:<br>Advanced Terraform usage for Infrastructure as Code (IaC), and gaining deeper expertise in AWS and Kubernetes for managing large-scale cloud environments.<br><br>💬 Key Focus Areas:<br><br>CI/CD strategies and best practices<br>Automating infrastructure with Ansible, Terraform<br>Kubernetes clusters and container orchestration<br>Cloud migration and hybrid-cloud setups<br>Log analysis and monitoring with tools like Prometheus, Grafana<br>⚡ Fun fact:<br>DevOps is more than a career for me; it’s a mindset. What started as an interest in optimizing server installations and analyzing logs has grown into a passion for building resilient and efficient systems. I see every automation challenge as a puzzle waiting to be solved. 😊
+🔭 I’m currently working on:<br>Optimizing infrastructure and workflows using DevOps tools, focusing on automating deployments, streamlining CI/CD pipelines, and enhancing cloud-based solutions for improved system performance and scalability.<br><br>👯 I’m looking to collaborate on:<br>Innovative DevOps projects that involve cutting-edge automation, containerization, Kubernetes orchestration, and cloud-native applications to solve real-world problems.<br><br>🤝 I’m looking for help with:<br>Advanced techniques in observability, monitoring distributed systems, and integrating AI/ML to predict system performance and potential downtimes.<br><br>🌱 I’m currently learning:<br>Advanced Terraform usage for Infrastructure as Code (IaC), and gaining deeper expertise in AWS and Kubernetes for managing large-scale cloud environments.<br><br>💬 Key Focus Areas:<br><br>CI/CD strategies and best practices<br>Automating infrastructure with Ansible, Terraform<br>Kubernetes clusters and container orchestration<br>Cloud migration and hybrid-cloud setups<br>Log analysis and monitoring with tools like Prometheus, Grafana<br>⚡ Fun fact:  
+DevOps is more than a career for me; it’s a mindset. What started as an interest in optimizing server installations and analyzing logs has grown into a passion for building resilient and efficient systems.  
+I see every automation challenge as a puzzle waiting to be solved. 😊  
 
-📁 Core DevOps Projects
-Explore some of the core DevOps projects I've worked on:
-👉 https://github.com/ErkanBarann?tab=repositories
+---
 
-🌐 My Web Page
-Visit my personal website for more insights:
-👉 https://www.erkanbaran.me
+📁 Core DevOps Projects  
+Explore some of the core DevOps projects I've worked on:  
+👉 [https://github.com/ErkanBarann?tab=repositories](https://github.com/ErkanBarann?tab=repositories)
+
+🌐 My Web Page  
+Visit my personal website for more insights:  
+👉 [https://www.erkanbaran.me](https://www.erkanbaran.me)
 
 
 ## 🌐 Socials:
