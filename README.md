@@ -4,7 +4,7 @@ I'm a DevOps enthusiast focused on building scalable and automated infrastructur
 Currently exploring advanced CI/CD strategies and cloud-native architectures on AWS.
 
 💬 Key Focus Areas:
-- Infrastructure as Code (Terraform, Ansible)
+- Infrastructure as Code (Terraform, Ansible, Docker)
 - CI/CD pipeline design and automation
 - Kubernetes and container orchestration
 - Cloud migration and monitoring (Prometheus, Grafana)
