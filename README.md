@@ -15,10 +15,10 @@ Currently exploring advanced CI/CD strategies and cloud-native architectures on 
   End-to-end CI/CD pipeline for a Flask app using Jenkins, Docker, and Kubernetes.
 
 - ☁️ **[AWS Blog Architecture Project](https://github.com/ErkanBarann/aws-blog-architecture)**  
-  Full AWS architecture for a scalable blog system using EC2, RDS, S3, IAM, and networking best practices.
+  Scalable and secure blog web infrastructure on AWS using EC2, ALB, Auto Scaling, S3, CloudFront, RDS, DynamoDB, and Lambda. Designed for high availability and failover support.
 
 - 📦 **[Kubernetes Deployment with YAML](https://github.com/ErkanBarann/kubernetes-yaml-deployment)**  
-  Deploying containerized applications on Kubernetes using production-grade YAML manifests.
+  Production-grade deployment of a Flask, MySQL, and NGINX application using Kubernetes with Secrets, Ingress, and PVCs.
 
 - 🎯 **[Kubernetes Helm Deployment](https://github.com/ErkanBarann/kubernetes-helm-deployment)**  
   Scalable and templated Kubernetes deployment using Helm for microservices.
