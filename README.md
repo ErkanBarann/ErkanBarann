@@ -23,7 +23,7 @@ Currently exploring advanced CI/CD strategies and cloud-native architectures on 
 - 🎯 **[Kubernetes Helm Deployment](https://github.com/ErkanBarann/kubernetes-helm-deployment)**  
   Scalable and templated Kubernetes deployment using Helm for microservices.
 
-- 🧩 **[Docker Compose Multi-Service App](https://github.com/ErkanBarann/docker-compose-flask-app)**  
+- 🧩 **[Docker Compose Multi-Service App](https://github.com/ErkanBarann/Docker-compose)**  
   A multi-container Flask app setup with Docker Compose, NGINX, and MySQL integration.
 
 - ⚙️ **[Car Rental System with Terraform](https://github.com/ErkanBarann/car-rental-system-with-terraform)**  
@@ -32,7 +32,7 @@ Currently exploring advanced CI/CD strategies and cloud-native architectures on 
 - 🔧 **[Flask on AWS with Ansible](https://github.com/ErkanBarann/flask-on-aws-with-ansible)**  
   Automated deployment of a Flask application using Ansible playbooks across multiple servers.
 
-- 📈 **[Kubernetes Monitoring with Prometheus & Grafana](https://github.com/ErkanBarann/k8s-monitoring-prometheus)**  
+- 📈 **[Kubernetes Monitoring with Prometheus & Grafana](https://github.com/ErkanBarann/prometheus-and-grafana-monitoring)**  
   Real-time metrics and dashboards for Kubernetes clusters with Prometheus and Grafana.
 
 
