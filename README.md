@@ -9,6 +9,34 @@ Currently exploring advanced CI/CD strategies and cloud-native architectures on 
 - Kubernetes and container orchestration
 - Cloud migration and monitoring (Prometheus, Grafana)
 
+## 📌 Highlighted Projects
+
+- 🚀 **[CI/CD Pipeline with Jenkins](https://github.com/ErkanBarann/ci-cd-pipeline-with-jenkins)**  
+  End-to-end CI/CD pipeline for a Flask app using Jenkins, Docker, and Kubernetes.
+
+- ☁️ **[AWS Blog Architecture Project](https://github.com/ErkanBarann/aws-blog-architecture)**  
+  Full AWS architecture for a scalable blog system using EC2, RDS, S3, IAM, and networking best practices.
+
+- 📦 **[Kubernetes Deployment with YAML](https://github.com/ErkanBarann/kubernetes-yaml-deployment)**  
+  Deploying containerized applications on Kubernetes using production-grade YAML manifests.
+
+- 🎯 **[Kubernetes Helm Deployment](https://github.com/ErkanBarann/kubernetes-helm-deployment)**  
+  Scalable and templated Kubernetes deployment using Helm for microservices.
+
+- 🧩 **[Docker Compose Multi-Service App](https://github.com/ErkanBarann/docker-compose-flask-app)**  
+  A multi-container Flask app setup with Docker Compose, NGINX, and MySQL integration.
+
+- ⚙️ **[Car Rental System with Terraform](https://github.com/ErkanBarann/car-rental-system-with-terraform)**  
+  Infrastructure as Code with Terraform to provision VPC, EC2, RDS, and IAM resources on AWS.
+
+- 🔧 **[Flask on AWS with Ansible](https://github.com/ErkanBarann/flask-on-aws-with-ansible)**  
+  Automated deployment of a Flask application using Ansible playbooks across multiple servers.
+
+- 📈 **[Kubernetes Monitoring with Prometheus & Grafana](https://github.com/ErkanBarann/k8s-monitoring-prometheus)**  
+  Real-time metrics and dashboards for Kubernetes clusters with Prometheus and Grafana.
+
+
+
 ⚡ Fun fact:  
 I see every automation challenge as a puzzle waiting to be solved. 😊
 
