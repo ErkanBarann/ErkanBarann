@@ -20,7 +20,7 @@ Currently exploring advanced CI/CD strategies and cloud-native architectures on 
 - 📦 **[Kubernetes Deployment with YAML](https://github.com/ErkanBarann/kubernetes-yaml-deployment)**  
   Production-grade deployment of a Flask, MySQL, and NGINX application using Kubernetes with Secrets, Ingress, and PVCs.
 
-- 🎯 **[Kubernetes Helm Deployment](https://github.com/ErkanBarann/kubernetes-helm-deployment)**  
+- 🎯 **[Kubernetes Helm Deployment](https://github.com/ErkanBarann/flask-mysql-helm-chart)**  
   Scalable and templated Kubernetes deployment using Helm for microservices.
 
 - 🧩 **[Docker Compose Multi-Service App](https://github.com/ErkanBarann/Docker-compose)**  
