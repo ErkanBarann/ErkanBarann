@@ -11,7 +11,7 @@ Currently exploring advanced CI/CD strategies and cloud-native architectures on 
 
 ## 📌 Highlighted Projects
 
-- 🚀 **[CI/CD Pipeline with Jenkins](https://github.com/ErkanBarann/ci-cd-pipeline-with-jenkins)**  
+- 🚀 **[CI/CD Pipeline with Jenkins](https://github.com/ErkanBarann/Jenkins-Rental-car-Project)**  
   End-to-end CI/CD pipeline for a Flask app using Jenkins, Docker, and Kubernetes.
 
 - ☁️ **[AWS Blog Architecture Project](https://github.com/ErkanBarann/aws-blog-architecture)**  
