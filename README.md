@@ -11,7 +11,10 @@ Currently exploring advanced CI/CD strategies and cloud-native architectures on 
 
 ## 📌 Highlighted Projects
 
-- 🚀 **[CI/CD Pipeline with Jenkins](https://github.com/ErkanBarann/ci-cd-pipeline-with-jenkins)**  
+- 🌐 **[End-to-End Real Estate DevOps Platform](https://github.com/ErkanBarann/realestate-cloud-devops)**  
+  Comprehensive DevOps project covering cloud infrastructure provisioning with Terraform, configuration management with Ansible, and CI/CD automation with Jenkins. The application is deployed on AWS using Docker, Kubernetes, Helm, and Rancher.
+
+- 🚀 **[CI/CD Pipeline with Jenkins](https://github.com/ErkanBarann/Jenkins-Rental-car-Project)**  
   End-to-end CI/CD pipeline for a Flask app using Jenkins, Docker, and Kubernetes.
 
 - ☁️ **[AWS Blog Architecture Project](https://github.com/ErkanBarann/aws-blog-architecture)**  
