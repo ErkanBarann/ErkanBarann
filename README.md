@@ -44,9 +44,7 @@ I see every automation challenge as a puzzle waiting to be solved. 😊
 Explore some of the core DevOps projects I've worked on:  
 👉 [https://github.com/ErkanBarann?tab=repositories](https://github.com/ErkanBarann?tab=repositories)
 
-🌐 My Web Page  
-Visit my personal website for more insights:  
-👉 [https://www.erkanbaran.me](https://www.erkanbaran.me)
+
 
 
 
