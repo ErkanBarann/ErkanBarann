@@ -1,13 +1,14 @@
 💫 About Me
 
-I'm a DevOps enthusiast focused on building scalable and automated infrastructure using tools like Terraform, Ansible, and Kubernetes.  
-Currently exploring advanced CI/CD strategies and cloud-native architectures on AWS.
+I have a strong background in system administration and IT infrastructure, and I work on cloud and DevOps projects focused on automation, containerization, and infrastructure as code using AWS, Terraform, Docker, and Kubernetes.
+
 
 💬 Key Focus Areas:
-- Infrastructure as Code (Terraform, Ansible, Docker)
-- CI/CD pipeline design and automation
-- Kubernetes and container orchestration
-- Cloud migration and monitoring (Prometheus, Grafana)
+- Infrastructure as Code (Terraform, Ansible)
+- CI/CD pipeline implementation and automation
+- Containerization and Kubernetes-based deployments
+- Monitoring and observability (Prometheus, Grafana)
+- AWS-based cloud infrastructure
 
 ## 📌 Highlighted Projects
 
